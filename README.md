@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy [Tu Nombre]</h1>
+<h1 align="center">¡Hola! 👋 Soy ClawOFF</h1>
 <h3 align="center">🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)</h3>
 
 <p align="center">
@@ -13,8 +13,8 @@
 - 🌱 Actualmente aprendiendo **Java** y bases de datos con **MySQL**
 - 🎯 Mi objetivo es convertirme en desarrollador/a **Full Stack**
 - 🤝 Abierto/a a colaborar en proyectos de prácticas o en equipo
-- ⚡ Dato curioso: **[algo sobre ti]**
-- 📫 Cómo contactarme: **[tu email]**
+- ⚡ Dato curioso:
+- 📫 Cómo contactarme:
 
 ---
 

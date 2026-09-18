@@ -10,11 +10,11 @@
 ### 🚀 Sobre mí
 
 - 🖥️ Estoy cursando el **Grado Superior en Desarrollo de Aplicaciones Web**
-- 🌱 Actualmente aprendiendo **[framework/tecnología, ej: React, Spring Boot...]**
+- 🌱 Actualmente aprendiendo **Java** y bases de datos con **MySQL**
 - 🎯 Mi objetivo es convertirme en desarrollador/a **Full Stack**
 - 🤝 Abierto/a a colaborar en proyectos de prácticas o en equipo
-- ⚡ Dato curioso: 
-- 📫 Cómo contactarme: 
+- ⚡ Dato curioso: **[algo sobre ti]**
+- 📫 Cómo contactarme: **[tu email]**
 
 ---
 
@@ -29,33 +29,34 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ClawOFF&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClawOFF&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClawOFF&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 📌 Proyectos destacados
 
-- 🔹 
-- 🔹 
-- 🔹 
+- 🔹 **[Nombre del proyecto]** — breve descripción de qué hace y con qué tecnologías está hecho.
+- 🔹 **[Nombre del proyecto]** — breve descripción de qué hace y con qué tecnologías está hecho.
+- 🔹 **[Nombre del proyecto]** — breve descripción de qué hace y con qué tecnologías está hecho.
+
 ---
 
 ### 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+  <a href="https://linkedin.com/in/ClawOFF" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tuemail@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/TU_USUARIO" target="_blank">
+  <a href="https://instagram.com/ClawOFF" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>

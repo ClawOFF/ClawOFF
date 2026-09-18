@@ -13,15 +13,15 @@
 - 🌱 Actualmente aprendiendo **[framework/tecnología, ej: React, Spring Boot...]**
 - 🎯 Mi objetivo es convertirme en desarrollador/a **Full Stack**
 - 🤝 Abierto/a a colaborar en proyectos de prácticas o en equipo
-- ⚡ Dato curioso: **[algo sobre ti]**
-- 📫 Cómo contactarme: **[tu email]**
+- ⚡ Dato curioso: 
+- 📫 Cómo contactarme: 
 
 ---
 
 ### 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,php,java,mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode,eclipse" />
 </p>
 
 ---
@@ -41,10 +41,9 @@
 
 ### 📌 Proyectos destacados
 
-- 🔹 **[Nombre del proyecto]** — breve descripción de qué hace y con qué tecnologías está hecho.
-- 🔹 **[Nombre del proyecto]** — breve descripción de qué hace y con qué tecnologías está hecho.
-- 🔹 **[Nombre del proyecto]** — breve descripción de qué hace y con qué tecnologías está hecho.
-
+- 🔹 
+- 🔹 
+- 🔹 
 ---
 
 ### 🌐 Conecta conmigo
